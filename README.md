@@ -5,7 +5,7 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![](lhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fgif%2F5phhdq&psig=AOvVaw23WKTAnQem-dRvfEB1EhL6&ust=1718235592190000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi-rcTc1IYDFQAAAAAdAAAAABAp)
+![]([lhttps://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fgif%2F5phhdq&psig=AOvVaw23WKTAnQem-dRvfEB1EhL6&ust=1718235592190000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi-rcTc1IYDFQAAAAAdAAAAABAp](https://imgflip.com/gif/5phhdq))
 
 
 <!--
