@@ -5,7 +5,9 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2FGIF-Gon-Hunter-X-Hunter-Timer-Discover-Share-GIFs-2065499.html&psig=AOvVaw2Mef8vnV5Je_UpkJFmo2Zq&ust=1718235995074000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODQ04Pe1IYDFQAAAAAdAAAAABAx))
+![](l![Gon gif](https://github.com/3AAHS003/3AAHS003/assets/170282829/4f416136-257b-499b-9bef-07e278fc9a6f)
+
+
 
 
 <!--
